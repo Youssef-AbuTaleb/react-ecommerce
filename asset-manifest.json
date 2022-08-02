@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.39f61bef.css",
-    "main.js": "/static/js/main.ecad85a8.js",
-    "static/media/slider2.jpg": "/static/media/slider2.987b990b602582c456da.jpg",
-    "static/media/slider3.jpg": "/static/media/slider3.9f04a23f426672f56584.jpg",
-    "static/media/cover2.jpg": "/static/media/cover2.d7fa17e4143c60cce314.jpg",
-    "static/media/slider1.jpg": "/static/media/slider1.b4624660954ca78c1b1d.jpg",
-    "index.html": "/index.html",
-    "main.39f61bef.css.map": "/static/css/main.39f61bef.css.map",
-    "main.ecad85a8.js.map": "/static/js/main.ecad85a8.js.map"
+    "main.css": "/Youssef-AbuTaleb/react-ecommerce/static/css/main.39f61bef.css",
+    "main.js": "/Youssef-AbuTaleb/react-ecommerce/static/js/main.9e119cfb.js",
+    "static/media/slider2.jpg": "/Youssef-AbuTaleb/react-ecommerce/static/media/slider2.987b990b602582c456da.jpg",
+    "static/media/slider3.jpg": "/Youssef-AbuTaleb/react-ecommerce/static/media/slider3.9f04a23f426672f56584.jpg",
+    "static/media/cover2.jpg": "/Youssef-AbuTaleb/react-ecommerce/static/media/cover2.d7fa17e4143c60cce314.jpg",
+    "static/media/slider1.jpg": "/Youssef-AbuTaleb/react-ecommerce/static/media/slider1.b4624660954ca78c1b1d.jpg",
+    "index.html": "/Youssef-AbuTaleb/react-ecommerce/index.html",
+    "main.39f61bef.css.map": "/Youssef-AbuTaleb/react-ecommerce/static/css/main.39f61bef.css.map",
+    "main.9e119cfb.js.map": "/Youssef-AbuTaleb/react-ecommerce/static/js/main.9e119cfb.js.map"
   },
   "entrypoints": [
     "static/css/main.39f61bef.css",
-    "static/js/main.ecad85a8.js"
+    "static/js/main.9e119cfb.js"
   ]
 }
