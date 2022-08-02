@@ -1,0 +1,15 @@
+.card {
+  background-color: #27496d !important;
+  padding: 10px;
+  color: aliceblue;
+  border-radius: 0 !important;
+}
+
+.card img {
+  border-radius: 0 !important;
+}
+
+.price {
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  color: lightcoral;
+}

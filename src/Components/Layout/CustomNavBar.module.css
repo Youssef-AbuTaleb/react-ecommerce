@@ -1,0 +1,62 @@
+.nav {
+  background-color: #142850;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  font-weight: 500;
+  position: fixed !important;
+  top: 0;
+  left: 0;
+  width: 100%;
+  z-index: 10;
+}
+
+.nav-img {
+  margin-right: 5px;
+  height: 30px;
+  border-radius: 25px;
+}
+
+.icon {
+  width: 1.35rem;
+  height: 1.35rem;
+  margin-right: 0.5rem;
+}
+
+.button {
+  position: absolute;
+  right: 5%;
+  top: 80px;
+  cursor: pointer;
+  font: inherit;
+  border: none;
+  background-color: #00a8cc;
+  color: #27496d;
+  padding: 0.5rem 3rem;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  border-radius: 25px;
+  font-weight: bold;
+}
+
+.button:hover,
+.button:active {
+  background-color: lightpink;
+  color: red;
+}
+
+@media screen and (min-width: 1000px) {
+  .button {
+    right: 15px;
+    top: 10px;
+  }
+}
+
+.badge {
+  background-color: #27496d;
+  padding: 0rem 0.5rem;
+  border-radius: 25px;
+  margin-left: 1rem;
+  font-weight: bold;
+  color: white;
+}

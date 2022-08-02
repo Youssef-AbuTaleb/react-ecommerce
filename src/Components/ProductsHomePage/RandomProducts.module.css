@@ -1,0 +1,18 @@
+.container {
+  display: flex;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+}
+
+.title {
+  text-align: center;
+  margin-bottom: 15px;
+  color: #142850;
+}
+
+.card {
+  background-color: #27496d !important;
+  padding: 10px;
+  color: aliceblue;
+  border-radius: 0 !important;
+}

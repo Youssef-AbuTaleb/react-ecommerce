@@ -1,0 +1,11 @@
+footer {
+  background-color: #142850;
+  height: 50px;
+  color: aliceblue;
+  text-align: center;
+  padding-top: 15px;
+}
+
+p {
+  font-size: 0.8rem;
+}

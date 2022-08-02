@@ -1,0 +1,242 @@
+[
+  {
+    "id": 0,
+    "title": "Camera 1",
+    "description": "orem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "price": 10.99,
+    "category": "cameras",
+    "imageSrc": "https://eg.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/27/419832/1.jpg?8421"
+  },
+  {
+    "id": 1,
+    "title": "Camera 2",
+    "description": "orem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "price": 30.99,
+    "category": "cameras",
+    "imageSrc": "https://m.media-amazon.com/images/I/41iI3jeEJqS.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Camera 3",
+    "description": "orem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "price": 20.99,
+    "category": "cameras",
+    "imageSrc": "https://shuttershopegypt.com/wp-content/uploads/2021/09/1609853682_IMG_1468862.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Camera 4",
+    "description": "orem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "price": 16.99,
+    "category": "cameras",
+    "imageSrc": "https://www.dubaiphone.net/web/image/product.template/481/image_1024?unique=da0f01a"
+  },
+  {
+    "id": 4,
+    "title": "Camera 5",
+    "description": "orem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "price": 46.99,
+    "category": "cameras",
+    "imageSrc": "https://img.cppng.com/download/2020-06/21664-1-sony-digital-camera-image.png"
+  },
+  {
+    "id": 5,
+    "title": "Camera 6",
+    "description": "orem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "price": 81.99,
+    "category": "cameras",
+    "imageSrc": "https://cairosales.com/58388-large_default/gopro-camera-20-mp-built-in-microphone-and-speaker-black-hero9.jpg"
+  },
+  {
+    "id": 6,
+    "title": "Camera 7",
+    "description": "orem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "price": 63.99,
+    "category": "cameras",
+    "imageSrc": "https://res-3.cloudinary.com/grover/image/upload/v1653574119/qpjty3h9mb2r21cvpndb.png"
+  },
+  {
+    "id": 7,
+    "title": "Camera 8",
+    "description": "lenor orem ipsum eiusmod, consectetur adipiscing elit, sed do  tempor incididunt ut labore et dolore magna aliqua.",
+    "price": 22.99,
+    "category": "cameras",
+    "imageSrc": "https://media.btech.com/media/catalog/product/cache/071d5ccae038fcedc91e567360d549bc/q/d/qdj4058gl_0.jpg"
+  },
+  {
+    "id": 8,
+    "title": "Camera 9",
+    "description": "ipsum mado adipiscing orem  dolor sit amet, consectetur  elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "price": 122.99,
+    "category": "cameras",
+    "imageSrc": "https://api-rayashop.freetls.fastly.net/media/catalog/product/cache/4e49ac3a70c0b98a165f3fa6633ffee1/0/1/01373.jpg"
+  },
+  {
+    "id": 9,
+    "title": "Camera 10",
+    "description": "kero ipsum dolor sit amet, sedo adipiscing elit, sed do  tempor incididunt ut labore et dolore magna aliqua.",
+    "price": 12.99,
+    "category": "cameras",
+    "imageSrc": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7BrQjS9W6eErdyskgsiwvBXgfM9PKH10ZhA&usqp=CAU"
+  },
+  {
+    "id": 10,
+    "title": "laptop 1",
+    "description": "sed do eiusmod tempor incididunt ,orem ipsum dolor sit amet, consectetur adipiscing elit,  ut labore et dolore magna aliqua.",
+    "price": 152.99,
+    "category": "laptops",
+    "imageSrc": "data:image/jpeg;base64,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"
+  },
+  {
+    "id": 11,
+    "title": "laptop 2",
+    "description": " consectetur adipiscing elit, sed do eiusmod, orem ipsum dolor sit amet, tempor incididunt ut labore et dolore magna aliqua.",
+    "price": 200.99,
+    "category": "laptops",
+    "imageSrc": "https://www.seekpng.com/png/full/170-1703280_open-box-hp-laptop-hp-laptop-15-bw080nd.png"
+  },
+  {
+    "id": 12,
+    "title": "laptop 3",
+    "description": " consectetur adipiscing elit, sed do eiusmod, orem ipsum dolor sit amet, tempor incididunt ut labore et dolore magna aliqua.",
+    "price": 109.99,
+    "category": "laptops",
+    "imageSrc": "https://5.imimg.com/data5/SD/AP/MY-2826144/asus-personal-laptop-500x500.jpg"
+  },
+  {
+    "id": 13,
+    "title": "laptop 4",
+    "description": " consectetur adipiscing elit, sed do eiusmod, orem ipsum dolor sit amet, tempor incididunt ut labore et dolore magna aliqua.",
+    "price": 169.99,
+    "category": "laptops",
+    "imageSrc": "https://images.yaoota.com/fHtJ6fMg_oLjiV16Il39gA2hhE0=/trim/yaootaweb-production/media/crawledproductimages/e25e4865f1663447a0a4896b1259b03fee049847.jpg"
+  },
+  {
+    "id": 14,
+    "title": "laptop 5",
+    "description": " consectetur adipiscing elit, sed do eiusmod, orem ipsum dolor sit amet, tempor incididunt ut labore et dolore magna aliqua.",
+    "price": 256.99,
+    "category": "laptops",
+    "imageSrc": "https://www.softlaptop.com/ecdata/stores/IYPUYD5769/image/cache/data/products/1640026396_AUczMhzCaPLUPShEFnGRNEJjlIwSzOfkQ03DgOG-1280x960-500x500.jpg"
+  },
+  {
+    "id": 15,
+    "title": "laptop 6",
+    "description": " consectetur adipiscing elit, sed do eiusmod, orem ipsum dolor sit amet, tempor incididunt ut labore et dolore magna aliqua.",
+    "price": 209.99,
+    "category": "laptops",
+    "imageSrc": "https://offersegypt0car.files.wordpress.com/2020/03/1-2143.jpg"
+  },
+  {
+    "id": 16,
+    "title": "laptop 7",
+    "description": " consectetur adipiscing elit, sed do eiusmod, orem ipsum dolor sit amet, tempor incididunt ut labore et dolore magna aliqua.",
+    "price": 106.99,
+    "category": "laptops",
+    "imageSrc": "https://www.computoucheg.com/image/cache/catalog/dell%20g15-5510-computoucheg.com-500x500.jpg"
+  },
+  {
+    "id": 17,
+    "title": "laptop 8",
+    "description": " consectetur adipiscing elit, sed do eiusmod, orem ipsum dolor sit amet, tempor incididunt ut labore et dolore magna aliqua.",
+    "price": 208.99,
+    "category": "laptops",
+    "imageSrc": "https://www.dubaiphone.net/web/image/product.template/2311/image_1024?unique=fbaf2a4"
+  },
+  {
+    "id": 18,
+    "title": "laptop 9",
+    "description": " consectetur adipiscing elit, sed do eiusmod, orem ipsum dolor sit amet, tempor incididunt ut labore et dolore magna aliqua.",
+    "price": 359.99,
+    "category": "laptops",
+    "imageSrc": "https://images.yaoota.com/aldHcQTlH66BHI2EeWORcNHuTHk=/trim/yaootaweb-production/media/crawledproductimages/491c0f48c8d2d747e778f168aa5b05deaca0f157.jpg"
+  },
+  {
+    "id": 19,
+    "title": "laptop 10",
+    "description": " consectetur adipiscing elit, sed do eiusmod, orem ipsum dolor sit amet, tempor incididunt ut labore et dolore magna aliqua.",
+    "price": 159.99,
+    "category": "laptops",
+    "imageSrc": "https://cairosales.com/59996-large_default/hp-notebook-156-intel-core-i3-1115-ram-4gb-1-tb-windows-10-black-hp-250-g8.jpg"
+  },
+  {
+    "id": 20,
+    "title": "mobile 1",
+    "description": " consectetur adipiscing elit, sed do eiusmod, orem ipsum dolor sit amet, tempor incididunt ut labore et dolore magna aliqua.",
+    "price": 30.69,
+    "category": "mobiles",
+    "imageSrc": "https://eg.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/19/148162/1.jpg?9297"
+  },
+  {
+    "id": 21,
+    "title": "mobile 2",
+    "description": " consectetur adipiscing elit, sed do eiusmod, orem ipsum dolor sit amet, tempor incididunt ut labore et dolore magna aliqua.",
+    "price": 55.29,
+    "category": "mobiles",
+    "imageSrc": "https://eg.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/54/349632/1.jpg?9305"
+  },
+  {
+    "id": 22,
+    "title": "mobile 3",
+    "description": " consectetur adipiscing elit, sed do eiusmod, orem ipsum dolor sit amet, tempor incididunt ut labore et dolore magna aliqua.",
+    "price": 10.0,
+    "category": "mobiles",
+    "imageSrc": "https://m.media-amazon.com/images/I/41xYx6XCydS.jpg"
+  },
+  {
+    "id": 23,
+    "title": "mobile 4",
+    "description": " consectetur adipiscing elit, sed do eiusmod, orem ipsum dolor sit amet, tempor incididunt ut labore et dolore magna aliqua.",
+    "price": 36.99,
+    "category": "mobiles",
+    "imageSrc": "https://eg.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/54/349632/1.jpg?9305"
+  },
+  {
+    "id": 24,
+    "title": "mobile 5",
+    "description": " consectetur adipiscing elit, sed do eiusmod, orem ipsum dolor sit amet, tempor incididunt ut labore et dolore magna aliqua.",
+    "price": 100.99,
+    "category": "mobiles",
+    "imageSrc": "data:image/jpeg;base64,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"
+  },
+  {
+    "id": 25,
+    "title": "mobile 6",
+    "description": " consectetur adipiscing elit, sed do eiusmod, orem ipsum dolor sit amet, tempor incididunt ut labore et dolore magna aliqua.",
+    "price": 15.66,
+    "category": "mobiles",
+    "imageSrc": "https://api-rayashop.freetls.fastly.net/media/catalog/product/cache/4e49ac3a70c0b98a165f3fa6633ffee1/n/o/noname-3-500x500.jpg"
+  },
+  {
+    "id": 26,
+    "title": "mobile 7",
+    "description": " consectetur adipiscing elit, sed do eiusmod, orem ipsum dolor sit amet, tempor incididunt ut labore et dolore magna aliqua.",
+    "price": 56.6,
+    "category": "mobiles",
+    "imageSrc": "https://eg.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/02/457152/1.jpg?8991"
+  },
+  {
+    "id": 27,
+    "title": "mobile 8",
+    "description": " consectetur adipiscing elit, sed do eiusmod, orem ipsum dolor sit amet, tempor incididunt ut labore et dolore magna aliqua.",
+    "price": 66.5,
+    "category": "mobiles",
+    "imageSrc": "https://www.technipages.com/wp-content/uploads/2021/06/Samsung-Galaxy-S21-Ultra-500x500.png"
+  },
+  {
+    "id": 28,
+    "title": "mobile 9",
+    "description": " consectetur adipiscing elit, sed do eiusmod, orem ipsum dolor sit amet, tempor incididunt ut labore et dolore magna aliqua.",
+    "price": 40.0,
+    "category": "mobiles",
+    "imageSrc": "https://www.gizmochina.com/wp-content/uploads/2019/02/General-Mobile-GM-8-Go-500x500.jpg"
+  },
+  {
+    "id": 29,
+    "title": "mobile 10",
+    "description": " consectetur adipiscing elit, sed do eiusmod, orem ipsum dolor sit amet, tempor incididunt ut labore et dolore magna aliqua.",
+    "price": 38.99,
+    "category": "mobiles",
+    "imageSrc": "https://media.btech.com/media/catalog/product/cache/071d5ccae038fcedc91e567360d549bc/r/e/realme-gt-master-256gb-8gb-blue_1.jpg"
+  }
+]
